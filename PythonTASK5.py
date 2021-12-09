@@ -4,6 +4,7 @@
 # Number of uppercase letters: 3, number of lowercase letters: 13
 # Hint: use a loop, conditional statement and appropriate methods for the string
 
+
 s=input('Enter your text:')
 u=0
 l=0

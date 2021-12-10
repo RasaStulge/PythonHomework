@@ -15,6 +15,6 @@ def my_min(my_list):
             low = element
     return low
 print(min(my_list))
-index = my_list.index(item)
 
+index = my_list.index(item)
 print('The index of', item, 'in the list is:', index)
